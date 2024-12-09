@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestSuite">
+    <test name="TestFakeStoreAPI">
+        <classes>
+            <class name="Store.AddNewCartTest" />
+            <class name="Store.GetUserCartTest" />
+            <class name="Store.GetSingleProductTest" />
+            <class name="Store.FilterCartsByDate" />
+            <class name="Store.ValidateProductLimitTest" />
+            <class name="Store.ValidateSortingOrderTest" />
+            <class name="Store.GetAllProductsTest" />
+        </classes>
+    </test>
+</suite>
